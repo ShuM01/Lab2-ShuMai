@@ -1,0 +1,38 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled binaries / object files
+*.o
+*.obj
+*.exe
+*.out
+
+# Build directories
+/bin/
+/build/
+/dist/
+/target/
+
+# Node.js dependencies
+node_modules/
+
+# IDE/editor settings
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.bak
+
+# Coverage/test output
+coverage/
+*.lcov
+
+# Ignore environment files (if any)
+.env
