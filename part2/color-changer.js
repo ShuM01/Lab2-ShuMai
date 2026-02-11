@@ -1,4 +1,4 @@
-// Select all boxes
+
 const boxes = document.querySelectorAll(".box");
 
 
