@@ -1,4 +1,4 @@
-// Select title using getElementById
+
 const title = document.getElementById("title");
 if (!title) {
   console.error("Title element not found");
